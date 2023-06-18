@@ -1,4 +1,8 @@
 
+body{
+  overflow: hidden;
+}
+
 iframe{
   width: 500px;
   margin-top: 36px;
